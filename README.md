@@ -2,6 +2,11 @@
 
 Growth Advisor · AI Strategist · Founder @ Oneskai & Stakzest
 
+<!-- Side-by-side on desktop; stacks top/bottom on narrow views -->
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ```
 ..................................................
 ..................................................
@@ -30,6 +35,9 @@ Growth Advisor · AI Strategist · Founder @ Oneskai & Stakzest
 -%@@@@@@@*::::@@@@@%@@@%%%@%%%-=*#%%#.%@%%##......
 ```
 
+</td>
+<td valign="top" width="50%">
+
 ```
 swapan@manna
 -------------------------------------------------
@@ -56,3 +64,7 @@ Followers:...................... 8
 Following:....................... 12
 Contributions (past yr):......... 997
 ```
+
+</td>
+</tr>
+</table>
