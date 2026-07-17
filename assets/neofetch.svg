@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1037" height="459" viewBox="0 0 1037 459" role="img" aria-label="swapanmanna — Growth Advisor, AI Strategist, Founder">
+<svg xmlns="http://www.w3.org/2000/svg" width="974" height="459" viewBox="0 0 974 459" role="img" aria-label="swapanmanna — Growth Advisor, AI Strategist, Founder">
 <style>
   text, tspan {
     white-space: pre;
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
     font-size: 14px;
   }
+  .ascii { fill: #c9d1d9; }
   .key { fill: #ffa657; }
   .value { fill: #a5d6ff; }
   .dot { fill: #6e7681; }
@@ -14,286 +15,58 @@
   .rule { fill: #6e7681; }
 </style>
 <rect width="100%" height="100%" rx="12" fill="#161b22"/>
-<g id="ascii">
-  <text x="14.00" y="24" fill="#3d3558">..................................................</text>
-  <text x="14.00" y="41" fill="#3d3558">..................................................</text>
-  <text x="14.00" y="58" fill="#3d3558">....................</text>
-  <text x="182.00" y="58" fill="#a78bfa">=</text>
-  <text x="190.40" y="58" fill="#8b5cf6">#</text>
-  <text x="198.80" y="58" fill="#7c3aed">%</text>
-  <text x="207.20" y="58" fill="#8b5cf6">#####</text>
-  <text x="249.20" y="58" fill="#fdba74">*</text>
-  <text x="257.60" y="58" fill="#a78bfa">=</text>
-  <text x="266.00" y="58" fill="#3d3558">....................</text>
-  <text x="14.00" y="75" fill="#3d3558">..................</text>
-  <text x="165.20" y="75" fill="#a78bfa">:</text>
-  <text x="173.60" y="75" fill="#7c3aed">%</text>
-  <text x="182.00" y="75" fill="#fdba74">*</text>
-  <text x="190.40" y="75" fill="#a78bfa">=-::-:::-</text>
-  <text x="266.00" y="75" fill="#fdba74">*</text>
-  <text x="274.40" y="75" fill="#a78bfa">+</text>
-  <text x="282.80" y="75" fill="#3d3558">..................</text>
-  <text x="14.00" y="92" fill="#3d3558">.................</text>
-  <text x="156.80" y="92" fill="#a78bfa">-</text>
-  <text x="165.20" y="92" fill="#7c3aed">%</text>
-  <text x="173.60" y="92" fill="#fdba74">*</text>
-  <text x="182.00" y="92" fill="#a78bfa">=--:::::::-</text>
-  <text x="274.40" y="92" fill="#fdba74">*</text>
-  <text x="282.80" y="92" fill="#a78bfa">:</text>
-  <text x="291.20" y="92" fill="#3d3558">.................</text>
-  <text x="14.00" y="109" fill="#3d3558">.................</text>
-  <text x="156.80" y="109" fill="#a78bfa">:</text>
-  <text x="165.20" y="109" fill="#fdba74">*</text>
-  <text x="173.60" y="109" fill="#a78bfa">-=+=-::-=--:=</text>
-  <text x="282.80" y="109" fill="#3d3558">..................</text>
-  <text x="14.00" y="126" fill="#3d3558">..................</text>
-  <text x="165.20" y="126" fill="#a78bfa">=-</text>
-  <text x="182.00" y="126" fill="#fdba74">*</text>
-  <text x="190.40" y="126" fill="#7c3aed">%</text>
-  <text x="198.80" y="126" fill="#8b5cf6">#</text>
-  <text x="207.20" y="126" fill="#a78bfa">+-:+</text>
-  <text x="240.80" y="126" fill="#8b5cf6">##</text>
-  <text x="257.60" y="126" fill="#a78bfa">=--</text>
-  <text x="282.80" y="126" fill="#3d3558">..................</text>
-  <text x="14.00" y="143" fill="#3d3558">..................</text>
-  <text x="165.20" y="143" fill="#a78bfa">--:::-:::::</text>
-  <text x="257.60" y="143" fill="#3d3558">.</text>
-  <text x="266.00" y="143" fill="#a78bfa">::</text>
-  <text x="282.80" y="143" fill="#3d3558">..................</text>
-  <text x="14.00" y="160" fill="#3d3558">..................</text>
-  <text x="165.20" y="160" fill="#a78bfa">--</text>
-  <text x="182.00" y="160" fill="#f97316">===+++</text>
-  <text x="232.40" y="160" fill="#a78bfa">-:</text>
-  <text x="249.20" y="160" fill="#f97316">=</text>
-  <text x="257.60" y="160" fill="#a78bfa">--</text>
-  <text x="274.40" y="160" fill="#f97316">=</text>
-  <text x="282.80" y="160" fill="#3d3558">..................</text>
-  <text x="14.00" y="177" fill="#3d3558">...................</text>
-  <text x="173.60" y="177" fill="#f97316">=++</text>
-  <text x="198.80" y="177" fill="#fdba74">****</text>
-  <text x="232.40" y="177" fill="#f97316">=====</text>
-  <text x="274.40" y="177" fill="#3d3558">...................</text>
-  <text x="14.00" y="194" fill="#3d3558">....................</text>
-  <text x="182.00" y="194" fill="#f97316">=#</text>
-  <text x="198.80" y="194" fill="#fdba74">*</text>
-  <text x="207.20" y="194" fill="#f97316">=</text>
-  <text x="215.60" y="194" fill="#a78bfa">-</text>
-  <text x="224.00" y="194" fill="#fdba74">::</text>
-  <text x="240.80" y="194" fill="#a78bfa">-</text>
-  <text x="249.20" y="194" fill="#fdba74">*</text>
-  <text x="257.60" y="194" fill="#a78bfa">-</text>
-  <text x="266.00" y="194" fill="#3d3558">....................</text>
-  <text x="14.00" y="211" fill="#3d3558">..................</text>
-  <text x="165.20" y="211" fill="#f97316">=</text>
-  <text x="173.60" y="211" fill="#7c3aed">%</text>
-  <text x="182.00" y="211" fill="#fdba74">*</text>
-  <text x="190.40" y="211" fill="#a78bfa">-</text>
-  <text x="198.80" y="211" fill="#f97316">=#</text>
-  <text x="215.60" y="211" fill="#7c3aed">%%</text>
-  <text x="232.40" y="211" fill="#fdba74">*</text>
-  <text x="240.80" y="211" fill="#f97316">+</text>
-  <text x="249.20" y="211" fill="#a78bfa">-</text>
-  <text x="257.60" y="211" fill="#3d3558">.....................</text>
-  <text x="14.00" y="228" fill="#3d3558">............</text>
-  <text x="114.80" y="228" fill="#f97316">==#</text>
-  <text x="140.00" y="228" fill="#7c3aed">%%%%%%</text>
-  <text x="190.40" y="228" fill="#f97316">=</text>
-  <text x="198.80" y="228" fill="#fdba74">:::</text>
-  <text x="224.00" y="228" fill="#f97316">#=</text>
-  <text x="240.80" y="228" fill="#fdba74">:</text>
-  <text x="249.20" y="228" fill="#3d3558">.</text>
-  <text x="257.60" y="228" fill="#f97316">+</text>
-  <text x="266.00" y="228" fill="#7c3aed">%</text>
-  <text x="274.40" y="228" fill="#f97316">#</text>
-  <text x="282.80" y="228" fill="#7c3aed">%%%</text>
-  <text x="308.00" y="228" fill="#f97316">#+=</text>
-  <text x="333.20" y="228" fill="#fdba74">-</text>
-  <text x="341.60" y="228" fill="#3d3558">...........</text>
-  <text x="14.00" y="245" fill="#3d3558">.......</text>
-  <text x="72.80" y="245" fill="#fdba74">:</text>
-  <text x="81.20" y="245" fill="#7c3aed">%%%%%%%%%@@%%</text>
-  <text x="190.40" y="245" fill="#fdba74">*--</text>
-  <text x="215.60" y="245" fill="#f97316">=</text>
-  <text x="224.00" y="245" fill="#7c3aed">%</text>
-  <text x="232.40" y="245" fill="#f97316">##</text>
-  <text x="249.20" y="245" fill="#fdba74">:-</text>
-  <text x="266.00" y="245" fill="#f97316">=</text>
-  <text x="274.40" y="245" fill="#7c3aed">%%%%%%%%</text>
-  <text x="341.60" y="245" fill="#fdba74">*</text>
-  <text x="350.00" y="245" fill="#3d3558">..........</text>
-  <text x="14.00" y="262" fill="#3d3558">.......</text>
-  <text x="72.80" y="262" fill="#fdba74">*</text>
-  <text x="81.20" y="262" fill="#7c3aed">%%%%%%%</text>
-  <text x="140.00" y="262" fill="#f97316">%%%%%%%</text>
-  <text x="198.80" y="262" fill="#fdba74">-::</text>
-  <text x="224.00" y="262" fill="#f97316">%%</text>
-  <text x="240.80" y="262" fill="#fdba74">-::-</text>
-  <text x="274.40" y="262" fill="#f97316">%%%%%</text>
-  <text x="316.40" y="262" fill="#7c3aed">%</text>
-  <text x="324.80" y="262" fill="#f97316">###</text>
-  <text x="350.00" y="262" fill="#fdba74">-</text>
-  <text x="358.40" y="262" fill="#3d3558">.........</text>
-  <text x="14.00" y="279" fill="#3d3558">......</text>
-  <text x="64.40" y="279" fill="#fdba74">-</text>
-  <text x="72.80" y="279" fill="#f97316">#</text>
-  <text x="81.20" y="279" fill="#7c3aed">%%%%%%%</text>
-  <text x="140.00" y="279" fill="#f97316">%%%%%%%#</text>
-  <text x="207.20" y="279" fill="#fdba74">::</text>
-  <text x="224.00" y="279" fill="#f97316">%#</text>
-  <text x="240.80" y="279" fill="#fdba74">*</text>
-  <text x="249.20" y="279" fill="#3d3558">.</text>
-  <text x="257.60" y="279" fill="#fdba74">:-</text>
-  <text x="274.40" y="279" fill="#f97316">%%%%######</text>
-  <text x="358.40" y="279" fill="#3d3558">.........</text>
-  <text x="14.00" y="296" fill="#3d3558">......</text>
-  <text x="64.40" y="296" fill="#7c3aed">%%%%%%%%%</text>
-  <text x="140.00" y="296" fill="#f97316">%%%%%%%#</text>
-  <text x="207.20" y="296" fill="#fdba74">-:</text>
-  <text x="224.00" y="296" fill="#f97316">=##</text>
-  <text x="249.20" y="296" fill="#fdba74">:::</text>
-  <text x="274.40" y="296" fill="#f97316">+%%%####</text>
-  <text x="341.60" y="296" fill="#7c3aed">%%</text>
-  <text x="358.40" y="296" fill="#f97316">#</text>
-  <text x="366.80" y="296" fill="#3d3558">........</text>
-  <text x="14.00" y="313" fill="#3d3558">.....</text>
-  <text x="56.00" y="313" fill="#7c3aed">%%%%%%%%%%</text>
-  <text x="140.00" y="313" fill="#f97316">%%%%%%%%+</text>
-  <text x="215.60" y="313" fill="#fdba74">:-</text>
-  <text x="232.40" y="313" fill="#f97316">##</text>
-  <text x="249.20" y="313" fill="#fdba74">*:-</text>
-  <text x="274.40" y="313" fill="#f97316">+#%#####</text>
-  <text x="341.60" y="313" fill="#7c3aed">%%%</text>
-  <text x="366.80" y="313" fill="#3d3558">........</text>
-  <text x="14.00" y="330" fill="#3d3558">....</text>
-  <text x="47.60" y="330" fill="#f97316">+</text>
-  <text x="56.00" y="330" fill="#7c3aed">%%</text>
-  <text x="72.80" y="330" fill="#ea580c">@@</text>
-  <text x="89.60" y="330" fill="#7c3aed">%</text>
-  <text x="98.00" y="330" fill="#ea580c">@</text>
-  <text x="106.40" y="330" fill="#7c3aed">%%%%</text>
-  <text x="140.00" y="330" fill="#f97316">%%%%%%%%%</text>
-  <text x="215.60" y="330" fill="#fdba74">--</text>
-  <text x="232.40" y="330" fill="#f97316">##</text>
-  <text x="249.20" y="330" fill="#fdba74">*:-*</text>
-  <text x="282.80" y="330" fill="#f97316">%%%###</text>
-  <text x="333.20" y="330" fill="#7c3aed">%</text>
-  <text x="341.60" y="330" fill="#ea580c">@</text>
-  <text x="350.00" y="330" fill="#7c3aed">%%</text>
-  <text x="366.80" y="330" fill="#3d3558">........</text>
-  <text x="14.00" y="347" fill="#3d3558">...</text>
-  <text x="39.20" y="347" fill="#a78bfa">:</text>
-  <text x="47.60" y="347" fill="#fdba74">*</text>
-  <text x="56.00" y="347" fill="#ea580c">@@%@%@@@@@%%%%%%%%%</text>
-  <text x="215.60" y="347" fill="#f97316">+=##</text>
-  <text x="249.20" y="347" fill="#fdba74">*::</text>
-  <text x="274.40" y="347" fill="#f97316">+</text>
-  <text x="282.80" y="347" fill="#ea580c">%%</text>
-  <text x="299.60" y="347" fill="#f97316">####</text>
-  <text x="333.20" y="347" fill="#ea580c">@@@@</text>
-  <text x="366.80" y="347" fill="#fdba74">*</text>
-  <text x="375.20" y="347" fill="#3d3558">.......</text>
-  <text x="14.00" y="364" fill="#a78bfa">:</text>
-  <text x="22.40" y="364" fill="#3d3558">..</text>
-  <text x="39.20" y="364" fill="#ea580c">%@%%@%@@@@@@%%%%%%%%%</text>
-  <text x="215.60" y="364" fill="#f97316">#=###=</text>
-  <text x="266.00" y="364" fill="#fdba74">-</text>
-  <text x="274.40" y="364" fill="#f97316">=#</text>
-  <text x="291.20" y="364" fill="#ea580c">%</text>
-  <text x="299.60" y="364" fill="#f97316">###</text>
-  <text x="324.80" y="364" fill="#ea580c">%@@@%%</text>
-  <text x="375.20" y="364" fill="#f97316">=</text>
-  <text x="383.60" y="364" fill="#3d3558">......</text>
-  <text x="14.00" y="381" fill="#3d3558">..</text>
-  <text x="30.80" y="381" fill="#8b5cf6">#</text>
-  <text x="39.20" y="381" fill="#ea580c">%@@%%@@@%</text>
-  <text x="114.80" y="381" fill="#3d3558">.</text>
-  <text x="123.20" y="381" fill="#ea580c">%@@@%%%%%%%%</text>
-  <text x="224.00" y="381" fill="#f97316">#</text>
-  <text x="232.40" y="381" fill="#ea580c">%</text>
-  <text x="240.80" y="381" fill="#f97316">##=</text>
-  <text x="266.00" y="381" fill="#fdba74">:-</text>
-  <text x="282.80" y="381" fill="#f97316">#</text>
-  <text x="291.20" y="381" fill="#ea580c">%%%%%@@@</text>
-  <text x="358.40" y="381" fill="#f97316">#</text>
-  <text x="366.80" y="381" fill="#ea580c">%@</text>
-  <text x="383.60" y="381" fill="#3d3558">......</text>
-  <text x="14.00" y="398" fill="#a78bfa">:</text>
-  <text x="22.40" y="398" fill="#fdba74">-</text>
-  <text x="30.80" y="398" fill="#ea580c">%@@%%%@@@</text>
-  <text x="106.40" y="398" fill="#3d3558">...</text>
-  <text x="131.60" y="398" fill="#ea580c">@@@@@%%%%%%</text>
-  <text x="224.00" y="398" fill="#f97316">#</text>
-  <text x="232.40" y="398" fill="#ea580c">%</text>
-  <text x="240.80" y="398" fill="#f97316">##=</text>
-  <text x="266.00" y="398" fill="#fdba74">:-</text>
-  <text x="282.80" y="398" fill="#f97316">#</text>
-  <text x="291.20" y="398" fill="#ea580c">%%%</text>
-  <text x="316.40" y="398" fill="#f97316">#</text>
-  <text x="324.80" y="398" fill="#fdba74">:</text>
-  <text x="333.20" y="398" fill="#ea580c">%@%%%%</text>
-  <text x="383.60" y="398" fill="#f97316">+</text>
-  <text x="392.00" y="398" fill="#3d3558">.....</text>
-  <text x="14.00" y="415" fill="#a78bfa">:</text>
-  <text x="22.40" y="415" fill="#f97316">+</text>
-  <text x="30.80" y="415" fill="#ea580c">@%%@@@@</text>
-  <text x="89.60" y="415" fill="#fdba74">*</text>
-  <text x="98.00" y="415" fill="#3d3558">..</text>
-  <text x="114.80" y="415" fill="#fdba74">::</text>
-  <text x="131.60" y="415" fill="#ea580c">@@@@@@@%%%%%</text>
-  <text x="232.40" y="415" fill="#f97316">#</text>
-  <text x="240.80" y="415" fill="#ea580c">%%</text>
-  <text x="257.60" y="415" fill="#f97316">+</text>
-  <text x="266.00" y="415" fill="#fdba74">--</text>
-  <text x="282.80" y="415" fill="#f97316">#</text>
-  <text x="291.20" y="415" fill="#ea580c">%</text>
-  <text x="299.60" y="415" fill="#f97316">#</text>
-  <text x="308.00" y="415" fill="#ea580c">%</text>
-  <text x="316.40" y="415" fill="#f97316">#</text>
-  <text x="324.80" y="415" fill="#fdba74">:</text>
-  <text x="333.20" y="415" fill="#ea580c">%@@%%</text>
-  <text x="375.20" y="415" fill="#f97316">#</text>
-  <text x="383.60" y="415" fill="#fdba74">:</text>
-  <text x="392.00" y="415" fill="#3d3558">.....</text>
-  <text x="14.00" y="432" fill="#fdba74">-</text>
-  <text x="22.40" y="432" fill="#ea580c">%@@@@@@@</text>
-  <text x="89.60" y="432" fill="#fdba74">*::::</text>
-  <text x="131.60" y="432" fill="#ea580c">@@@@@%@@@%%%@%%%</text>
-  <text x="266.00" y="432" fill="#fdba74">-</text>
-  <text x="274.40" y="432" fill="#f97316">=</text>
-  <text x="282.80" y="432" fill="#fdba74">*</text>
-  <text x="291.20" y="432" fill="#f97316">#</text>
-  <text x="299.60" y="432" fill="#ea580c">%%</text>
-  <text x="316.40" y="432" fill="#f97316">#</text>
-  <text x="324.80" y="432" fill="#3d3558">.</text>
-  <text x="333.20" y="432" fill="#ea580c">%@%%</text>
-  <text x="366.80" y="432" fill="#f97316">##</text>
-  <text x="383.60" y="432" fill="#3d3558">......</text>
-</g>
-<text id="info" x="444.00" y="24" fill="#c9d1d9">
-  <tspan x="444.00" y="24" class="title">swapanmanna<tspan class="rule"> ──────────────────────────────────────────</tspan></tspan>
-  <tspan x="444.00" y="41"><tspan class="key">Role</tspan><tspan class="dot">:</tspan><tspan class="dot"> ...................... </tspan><tspan class="value">Growth Advisor · AI Strategist · Founder</tspan></tspan>
-  <tspan x="444.00" y="58"><tspan class="key">Based in</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">Bengaluru, India</tspan></tspan>
-  <tspan x="444.00" y="75"><tspan class="key">Experience</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................ </tspan><tspan class="value">14+ years in Growth &amp; SaaS</tspan></tspan>
-  <tspan x="444.00" y="92"><tspan class="key">Scaled</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................... </tspan><tspan class="value">20+ SaaS companies (APAC &amp; global)</tspan></tspan>
-  <tspan x="444.00" y="109"><tspan class="key">Founder</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">Oneskai, Stakzest</tspan></tspan>
-  <tspan x="444.00" y="126"> </tspan>
-  <tspan x="444.00" y="143"><tspan class="key">Focus.Growth</tspan><tspan class="dot">:</tspan><tspan class="dot"> .............. </tspan><tspan class="value">GTM Strategy, Growth Loops, Retention</tspan></tspan>
-  <tspan x="444.00" y="160"><tspan class="key">Focus.AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">AI-Native GTM Systems, AI Search (GEO)</tspan></tspan>
-  <tspan x="444.00" y="177"><tspan class="key">Focus.Product</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">Activation, Experimentation</tspan></tspan>
-  <tspan x="444.00" y="194"> </tspan>
-  <tspan x="444.00" y="211"><tspan class="key">Stack</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">Next.js, TypeScript, Flutter, PostgreSQL</tspan></tspan>
-  <tspan x="444.00" y="228"><tspan class="key">AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> ........................ </tspan><tspan class="value">AWS, Bedrock, Claude</tspan></tspan>
-  <tspan x="444.00" y="245"><tspan class="key">IDE</tspan><tspan class="dot">:</tspan><tspan class="dot"> ....................... </tspan><tspan class="value">Antigravity, VS Code</tspan></tspan>
-  <tspan x="444.00" y="262"> </tspan>
-  <tspan x="444.00" y="279" class="section">- Contact<tspan class="rule"> ───────────────────────────────</tspan></tspan>
-  <tspan x="444.00" y="296"><tspan class="key">Email</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">contact@swapanmanna.com</tspan></tspan>
-  <tspan x="444.00" y="313"><tspan class="key">LinkedIn</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">swapanmanna</tspan></tspan>
-  <tspan x="444.00" y="330"><tspan class="key">Twitter/X</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">@swapankm</tspan></tspan>
-  <tspan x="444.00" y="347"><tspan class="key">Website</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">swapanmanna.com</tspan></tspan>
-  <tspan x="444.00" y="364"> </tspan>
-  <tspan x="444.00" y="381" class="section">- GitHub Stats<tspan class="rule"> ──────────────────────────</tspan></tspan>
-  <tspan x="444.00" y="398"><tspan class="key">Followers</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">8</tspan></tspan>
-  <tspan x="444.00" y="415"><tspan class="key">Following</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">12</tspan></tspan>
-  <tspan x="444.00" y="432"><tspan class="key">Contributions</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">997 (past year)</tspan></tspan>
+<text id="ascii" x="14.00" y="24" class="ascii">
+  <tspan x="14.00" y="24">                 :o%%%%xo;,               </tspan>
+  <tspan x="14.00" y="41">              ,x#@@@##@@@###o:.           </tspan>
+  <tspan x="14.00" y="58">            .x@#x;:,..,,::;;:;#x          </tspan>
+  <tspan x="14.00" y="75">           ;@@x;:,.           :@o         </tspan>
+  <tspan x="14.00" y="92">           @@%;:,.            .x#         </tspan>
+  <tspan x="14.00" y="109">           @x,,::,       ...   xx         </tspan>
+  <tspan x="14.00" y="126">           %:,:;:oxo, .;xo:,.. ::         </tspan>
+  <tspan x="14.00" y="143">           x,,;oxxoo;  ;xo%::. :.         </tspan>
+  <tspan x="14.00" y="160">           o...,::,,,   .,,.   ,.         </tspan>
+  <tspan x="14.00" y="177">           ;,.    .,.          ,.         </tspan>
+  <tspan x="14.00" y="194">           .:,,,,,,:o;;:  ,..  :          </tspan>
+  <tspan x="14.00" y="211">            ,;;ooxxxo;;::;::::,.          </tspan>
+  <tspan x="14.00" y="228">             ;xooxxxxo;;,::,:;,           </tspan>
+  <tspan x="14.00" y="245">              o@%o:,:;;,. ;;o,            </tspan>
+  <tspan x="14.00" y="262">             :,;#@#xo;;;ox%x.             </tspan>
+  <tspan x="14.00" y="279">          .;#@;  :x#@@@%xx;. ;,.          </tspan>
+  <tspan x="14.00" y="296">   ,:ox%@@@@@@@:.  .:o%;,.   @@@@#xo:,.   </tspan>
+  <tspan x="14.00" y="313">%#@@@@@@@@@@@@@#.   .x@#o   ,x@@@@@@@@@@#x</tspan>
+  <tspan x="14.00" y="330">@@@@@@@@@@@@@@@@:  ,o%@@#x  ..#@@@@@@@@@@@</tspan>
+  <tspan x="14.00" y="347">@@@@@@@@@@@@@@@@x ,  ,@@;,   .x@@@@@@@@@@@</tspan>
+  <tspan x="14.00" y="364">@@@@@@@@@@@@@@@@@.   ,@@x     ;@@@@@@@@@@@</tspan>
+  <tspan x="14.00" y="381">@@@@@@@@@@@@@@@@@;   ,@@@;    ,@@@@@@@@@@@</tspan>
+  <tspan x="14.00" y="398">@@@@@@@@@@@@@@@@@#   ,@@@#    .#@@@@@@@@@@</tspan>
+  <tspan x="14.00" y="415">@@@@@@@@@@@@@@@@@@;   @@@@:   .%@@@@@@@@@@</tspan>
+  <tspan x="14.00" y="432">                                          </tspan>
+</text>
+<text id="info" x="380.80" y="24" fill="#c9d1d9">
+  <tspan x="380.80" y="24" class="title">swapanmanna<tspan class="rule"> ──────────────────────────────────────────</tspan></tspan>
+  <tspan x="380.80" y="41"><tspan class="key">Role</tspan><tspan class="dot">:</tspan><tspan class="dot"> ...................... </tspan><tspan class="value">Growth Advisor · AI Strategist · Founder</tspan></tspan>
+  <tspan x="380.80" y="58"><tspan class="key">Based in</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">Bengaluru, India</tspan></tspan>
+  <tspan x="380.80" y="75"><tspan class="key">Experience</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................ </tspan><tspan class="value">14+ years in Growth &amp; SaaS</tspan></tspan>
+  <tspan x="380.80" y="92"><tspan class="key">Scaled</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................... </tspan><tspan class="value">20+ SaaS companies (APAC &amp; global)</tspan></tspan>
+  <tspan x="380.80" y="109"><tspan class="key">Founder</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">Oneskai, Stakzest</tspan></tspan>
+  <tspan x="380.80" y="126"> </tspan>
+  <tspan x="380.80" y="143"><tspan class="key">Focus.Growth</tspan><tspan class="dot">:</tspan><tspan class="dot"> .............. </tspan><tspan class="value">GTM Strategy, Growth Loops, Retention</tspan></tspan>
+  <tspan x="380.80" y="160"><tspan class="key">Focus.AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">AI-Native GTM Systems, AI Search (GEO)</tspan></tspan>
+  <tspan x="380.80" y="177"><tspan class="key">Focus.Product</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">Activation, Experimentation</tspan></tspan>
+  <tspan x="380.80" y="194"> </tspan>
+  <tspan x="380.80" y="211"><tspan class="key">Stack</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">Next.js, TypeScript, Flutter, PostgreSQL</tspan></tspan>
+  <tspan x="380.80" y="228"><tspan class="key">AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> ........................ </tspan><tspan class="value">AWS, Bedrock, Claude</tspan></tspan>
+  <tspan x="380.80" y="245"><tspan class="key">IDE</tspan><tspan class="dot">:</tspan><tspan class="dot"> ....................... </tspan><tspan class="value">Antigravity, VS Code</tspan></tspan>
+  <tspan x="380.80" y="262"> </tspan>
+  <tspan x="380.80" y="279" class="section">- Contact<tspan class="rule"> ───────────────────────────────</tspan></tspan>
+  <tspan x="380.80" y="296"><tspan class="key">Email</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">contact@swapanmanna.com</tspan></tspan>
+  <tspan x="380.80" y="313"><tspan class="key">LinkedIn</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">swapanmanna</tspan></tspan>
+  <tspan x="380.80" y="330"><tspan class="key">Twitter/X</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">@swapankm</tspan></tspan>
+  <tspan x="380.80" y="347"><tspan class="key">Website</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">swapanmanna.com</tspan></tspan>
+  <tspan x="380.80" y="364"> </tspan>
+  <tspan x="380.80" y="381" class="section">- GitHub Stats<tspan class="rule"> ──────────────────────────</tspan></tspan>
+  <tspan x="380.80" y="398"><tspan class="key">Followers</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">8</tspan></tspan>
+  <tspan x="380.80" y="415"><tspan class="key">Following</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">12</tspan></tspan>
+  <tspan x="380.80" y="432"><tspan class="key">Contributions</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">997 (past year)</tspan></tspan>
 </text>
 </svg>
