@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350" role="img" aria-label="swapanmanna — Growth Advisor, AI Strategist, Founder">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="410" viewBox="0 0 850 410" role="img" aria-label="swapanmanna — Growth Advisor, AI Strategist, Founder">
 <style>
   text, tspan {
     white-space: pre;
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+  }
+  #ascii tspan {
+    font-size: 15px;
+  }
+  #info tspan {
     font-size: 12px;
   }
   .ascii { fill: #c9d1d9; }
@@ -15,50 +20,54 @@
   .rule { fill: #6e7681; }
 </style>
 <rect width="100%" height="100%" rx="12" fill="#161b22"/>
-<text id="ascii" x="20.00" y="22" class="ascii">
-  <tspan x="20.00" y="22">               ,:.</tspan>
-  <tspan x="20.00" y="37">           .:%oo;o;;:,</tspan>
-  <tspan x="20.00" y="52">          .xo,.     .x</tspan>
-  <tspan x="20.00" y="67">          .o,::. ,,. o</tspan>
-  <tspan x="20.00" y="82">           :,oo: ,o, :</tspan>
-  <tspan x="20.00" y="97">           ,  .,,.   .</tspan>
-  <tspan x="20.00" y="112">           .;;%o;,:,,</tspan>
-  <tspan x="20.00" y="127">            :o%;;::;.</tspan>
-  <tspan x="20.00" y="142">         ,:xx.,oxo: o:.</tspan>
-  <tspan x="20.00" y="157">   ;oox######; .x%. o###x%o:</tspan>
-  <tspan x="20.00" y="172">  ;##########x  o%. ,#######.</tspan>
-  <tspan x="20.00" y="187"> ,x###########: o#: .x######o</tspan>
-  <tspan x="20.00" y="202"> x############% ;#% .x###%x##</tspan>
-  <tspan x="20.00" y="217">o##############,,#x. x###xx##:</tspan>
-  <tspan x="20.00" y="232">###############%,##. o#######x</tspan>
-  <tspan x="20.00" y="247">#####xx#########o##. %###x####;</tspan>
-  <tspan x="20.00" y="262">#####,.############,.%###;x###x</tspan>
-  <tspan x="20.00" y="277">####:  o###########; :###.%####</tspan>
-  <tspan x="20.00" y="292">###%   o###########%.,##x.%###x</tspan>
-  <tspan x="20.00" y="307">###o.  o############:,###;####:</tspan>
-  <tspan x="20.00" y="322">#####% o############;x##xo,;x#</tspan>
+<text id="ascii" x="20.00" y="25" class="ascii">
+  <tspan x="20.00" y="25">               ,:.</tspan>
+  <tspan x="20.00" y="43">           .:%oo;o;;:,</tspan>
+  <tspan x="20.00" y="61">          .xo,.     .x</tspan>
+  <tspan x="20.00" y="79">          .o,::. ,,. o</tspan>
+  <tspan x="20.00" y="97">           :,oo: ,o, :</tspan>
+  <tspan x="20.00" y="115">           ,  .,,.   .</tspan>
+  <tspan x="20.00" y="133">           .;;%o;,:,,</tspan>
+  <tspan x="20.00" y="151">            :o%;;::;.</tspan>
+  <tspan x="20.00" y="169">         ,:xx.,oxo: o:.</tspan>
+  <tspan x="20.00" y="187">   ;oox######; .x%. o###x%o:</tspan>
+  <tspan x="20.00" y="205">  ;##########x  o%. ,#######.</tspan>
+  <tspan x="20.00" y="223"> ,x###########: o#: .x######o</tspan>
+  <tspan x="20.00" y="241"> x############% ;#% .x###%x##</tspan>
+  <tspan x="20.00" y="259">o##############,,#x. x###xx##:</tspan>
+  <tspan x="20.00" y="277">###############%,##. o#######x</tspan>
+  <tspan x="20.00" y="295">#####xx#########o##. %###x####;</tspan>
+  <tspan x="20.00" y="313">#####,.############,.%###;x###x</tspan>
+  <tspan x="20.00" y="331">####:  o###########; :###.%####</tspan>
+  <tspan x="20.00" y="349">###%   o###########%.,##x.%###x</tspan>
+  <tspan x="20.00" y="367">###o.  o############:,###;####:</tspan>
+  <tspan x="20.00" y="385">#####% o############;x##xo,;x#</tspan>
 </text>
-<text id="info" x="270.00" y="22" fill="#c9d1d9">
-  <tspan x="270.00" y="22"><tspan class="title">swapanmanna<tspan class="rule"> ──────────────────────────────────────────</tspan></tspan></tspan>
-  <tspan x="270.00" y="37"><tspan class="key">Role</tspan><tspan class="dot">:</tspan><tspan class="dot"> ...................... </tspan><tspan class="value">Growth Advisor · AI Strategist · Founder</tspan></tspan>
-  <tspan x="270.00" y="52"><tspan class="key">Based in</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">Bengaluru, India</tspan></tspan>
-  <tspan x="270.00" y="67"><tspan class="key">Experience</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................ </tspan><tspan class="value">14+ years in Growth &amp; SaaS</tspan></tspan>
-  <tspan x="270.00" y="82"><tspan class="key">Scaled</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................... </tspan><tspan class="value">20+ SaaS companies (APAC &amp; global)</tspan></tspan>
-  <tspan x="270.00" y="97"><tspan class="key">Founder</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">Oneskai, Stakzest</tspan></tspan>
-  <tspan x="270.00" y="112"><tspan class="key">Focus.Growth</tspan><tspan class="dot">:</tspan><tspan class="dot"> .............. </tspan><tspan class="value">GTM Strategy, Growth Loops, Retention</tspan></tspan>
-  <tspan x="270.00" y="127"><tspan class="key">Focus.AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">AI-Native GTM Systems, AI Search (GEO)</tspan></tspan>
-  <tspan x="270.00" y="142"><tspan class="key">Focus.Product</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">Activation, Experimentation</tspan></tspan>
-  <tspan x="270.00" y="157"><tspan class="key">Stack</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">Next.js, TypeScript, Flutter, PostgreSQL</tspan></tspan>
-  <tspan x="270.00" y="172"><tspan class="key">AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> ........................ </tspan><tspan class="value">AWS, Bedrock, Claude</tspan></tspan>
-  <tspan x="270.00" y="187"><tspan class="key">IDE</tspan><tspan class="dot">:</tspan><tspan class="dot"> ....................... </tspan><tspan class="value">Antigravity, VS Code</tspan></tspan>
-  <tspan x="270.00" y="202"><tspan class="section">- Contact<tspan class="rule"> ───────────────────────────────</tspan></tspan></tspan>
-  <tspan x="270.00" y="217"><tspan class="key">Email</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">contact@swapanmanna.com</tspan></tspan>
-  <tspan x="270.00" y="232"><tspan class="key">LinkedIn</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">swapanmanna</tspan></tspan>
-  <tspan x="270.00" y="247"><tspan class="key">Twitter/X</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">@swapankm</tspan></tspan>
-  <tspan x="270.00" y="262"><tspan class="key">Website</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">swapanmanna.com</tspan></tspan>
-  <tspan x="270.00" y="277"><tspan class="section">- GitHub Stats<tspan class="rule"> ──────────────────────────</tspan></tspan></tspan>
-  <tspan x="270.00" y="292"><tspan class="key">Followers</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">8</tspan></tspan>
-  <tspan x="270.00" y="307"><tspan class="key">Following</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">12</tspan></tspan>
-  <tspan x="270.00" y="322"><tspan class="key">Contributions</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">997 (past year)</tspan></tspan>
+<text id="info" x="330.00" y="25" fill="#c9d1d9">
+  <tspan x="330.00" y="25"><tspan class="title">swapanmanna<tspan class="rule"> ──────────────────────────────────────────</tspan></tspan></tspan>
+  <tspan x="330.00" y="40"><tspan class="key">Role</tspan><tspan class="dot">:</tspan><tspan class="dot"> ...................... </tspan><tspan class="value">Growth Advisor · AI Strategist · Founder</tspan></tspan>
+  <tspan x="330.00" y="55"><tspan class="key">Based in</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">Bengaluru, India</tspan></tspan>
+  <tspan x="330.00" y="70"><tspan class="key">Experience</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................ </tspan><tspan class="value">14+ years in Growth &amp; SaaS</tspan></tspan>
+  <tspan x="330.00" y="85"><tspan class="key">Scaled</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................... </tspan><tspan class="value">20+ SaaS companies (APAC &amp; global)</tspan></tspan>
+  <tspan x="330.00" y="100"><tspan class="key">Founder</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">Oneskai, Stakzest</tspan></tspan>
+  <tspan x="330.00" y="115"> </tspan>
+  <tspan x="330.00" y="130"><tspan class="key">Focus.Growth</tspan><tspan class="dot">:</tspan><tspan class="dot"> .............. </tspan><tspan class="value">GTM Strategy, Growth Loops, Retention</tspan></tspan>
+  <tspan x="330.00" y="145"><tspan class="key">Focus.AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">AI-Native GTM Systems, AI Search (GEO)</tspan></tspan>
+  <tspan x="330.00" y="160"><tspan class="key">Focus.Product</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">Activation, Experimentation</tspan></tspan>
+  <tspan x="330.00" y="175"> </tspan>
+  <tspan x="330.00" y="190"><tspan class="key">Stack</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">Next.js, TypeScript, Flutter, PostgreSQL</tspan></tspan>
+  <tspan x="330.00" y="205"><tspan class="key">AI</tspan><tspan class="dot">:</tspan><tspan class="dot"> ........................ </tspan><tspan class="value">AWS, Bedrock, Claude</tspan></tspan>
+  <tspan x="330.00" y="220"><tspan class="key">IDE</tspan><tspan class="dot">:</tspan><tspan class="dot"> ....................... </tspan><tspan class="value">Antigravity, VS Code</tspan></tspan>
+  <tspan x="330.00" y="235"> </tspan>
+  <tspan x="330.00" y="250"><tspan class="section">- Contact<tspan class="rule"> ───────────────────────────────</tspan></tspan></tspan>
+  <tspan x="330.00" y="265"><tspan class="key">Email</tspan><tspan class="dot">:</tspan><tspan class="dot"> ..................... </tspan><tspan class="value">contact@swapanmanna.com</tspan></tspan>
+  <tspan x="330.00" y="280"><tspan class="key">LinkedIn</tspan><tspan class="dot">:</tspan><tspan class="dot"> .................. </tspan><tspan class="value">swapanmanna</tspan></tspan>
+  <tspan x="330.00" y="295"><tspan class="key">Twitter/X</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">@swapankm</tspan></tspan>
+  <tspan x="330.00" y="310"><tspan class="key">Website</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................... </tspan><tspan class="value">swapanmanna.com</tspan></tspan>
+  <tspan x="330.00" y="325"> </tspan>
+  <tspan x="330.00" y="340"><tspan class="section">- GitHub Stats<tspan class="rule"> ──────────────────────────</tspan></tspan></tspan>
+  <tspan x="330.00" y="355"><tspan class="key">Followers</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">8</tspan></tspan>
+  <tspan x="330.00" y="370"><tspan class="key">Following</tspan><tspan class="dot">:</tspan><tspan class="dot"> ................. </tspan><tspan class="value">12</tspan></tspan>
+  <tspan x="330.00" y="385"><tspan class="key">Contributions</tspan><tspan class="dot">:</tspan><tspan class="dot"> ............. </tspan><tspan class="value">997 (past year)</tspan></tspan>
 </text>
 </svg>
